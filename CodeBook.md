@@ -2,7 +2,7 @@
 
 ## Michael Crawley, MBA, PMP, M.ED. - Learning and Technology
  
- +### Data Source
+ ### Data Source
  + [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) details a full description of the data used that this project uses. 
  +[The source data for this project can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
  +
