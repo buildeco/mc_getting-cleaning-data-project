@@ -14,9 +14,8 @@ The following link empowers you to view a full description of the data used in t
 
 ### Repository Composition
 1. CodeBook.md: details information about raw as well as tidy data sets as well as tranformation intricacies.
-2. LICENSE: Code and Text license terms.
-3. README.md: file you are currently viewing.
-4. run_analysis.R: the R script which performs the transformation from the raw data set to the tidy one.
+2. README.md: file you are currently viewing.
+3. run_analysis.R: the R script which performs the transformation from the raw data set to the tidy one.
 
 ### Human Activity Recognition Using Smartphones Dataset : tidy data set creation process
 Merge the test and train sets; pull the activity labels and subject identifiers in order to create a soley integrated data set. 
