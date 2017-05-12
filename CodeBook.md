@@ -1,6 +1,7 @@
-+### Description
- +Johns Hopkins University "Getting and Cleaning Data" course project.
++### Johns Hopkins University "Getting and Cleaning Data" course project.
  +Additional information about the variables, data and transformations used in the project.
+
++## Michael Crawley
  
  +### Data Source
  + [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) details a full description of the data used that this project uses. 
