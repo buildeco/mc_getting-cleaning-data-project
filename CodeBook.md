@@ -1,6 +1,6 @@
 # John Hopkins University "GETTING AND CLEANING DATA" Course PROJECT
 
-## Michael Crawley, MBA, PMP, M.ED. - Learning and Technology
+## Michael Crawley
  
  ### Data Source
  [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) details a full description of the data used that this project uses. 
