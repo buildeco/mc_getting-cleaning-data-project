@@ -1,6 +1,6 @@
 # GETTING AND CLEANING DATA PROJECT
 
-## Michael Crawley, MBA, PMP, M.ED. - Learning and Technology
+## Michael Crawley
 
 Repository for the submission of the Johns Hopkins University, "Getting and Cleaning Data" course project.
 
